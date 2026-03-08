@@ -136,7 +136,7 @@ Examples:
 - Log Search Results
   ![Architecture](screenshots/log-search.png)
 - Forwarder Status
-
+![Architecture](screenshots/forwarder-status.png)
 ---
 
 # Skills Demonstrated
