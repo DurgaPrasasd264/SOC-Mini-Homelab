@@ -55,20 +55,7 @@ Used to simulate attacker activities and generate security events within the lab
 
 ## Architecture
 
-```
-  Kali Linux
-          (Attacker Machine)
-                  |
-     --------------------------------
-     |              |              |
- Windows 11     Windows Server   Ubuntu Server
-   Device 1        Device 2        Device 3
-     |              |              |
-     -------- Log Forwarding -------
-                  |
-          Splunk Enterprise
-        Centralized Log Server
-```
+![Architecture](architecture.png)
 
     
  
