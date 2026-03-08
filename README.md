@@ -152,6 +152,12 @@ Screenshots of the Splunk dashboards, log searches, and monitoring interface are
 
 ---
 
+## Lab Setup Guide
+
+To recreate this SOC lab environment, follow the setup guide:
+
+➡️ [View Lab Setup Guide](LAB_SETUP.md)
+
 # Learning Outcome
 
 This project helped in understanding how a SOC environment collects and analyzes logs from multiple systems using a SIEM platform.
