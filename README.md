@@ -14,6 +14,8 @@ The SOC lab consists of four systems connected within the same network.
 ### Attacker Machine
 **Operating System:** Kali Linux  
 
+![](screenshots/kali_system.png)
+
 **Purpose:**  
 Used to simulate attacker activities and generate security events within the lab environment.
 
@@ -21,6 +23,8 @@ Used to simulate attacker activities and generate security events within the lab
 
 ### Device 1 – Endpoint System
 **Operating System:** Windows 11  
+
+![](screenshots/windows11-eventviewer.png)
 
 **Role:** Endpoint machine sending logs to Splunk
 
@@ -32,6 +36,8 @@ Used to simulate attacker activities and generate security events within the lab
 
 ### Device 2 – Server System
 **Operating System:** Windows Server  
+
+![](screenshots/windows-server-eventviewer.png)
 
 **Role:** Server machine sending logs to Splunk
 
@@ -45,6 +51,8 @@ Used to simulate attacker activities and generate security events within the lab
 **Operating System:** Ubuntu Server  
 
 **Role:** Centralized logging and monitoring system
+
+![](screenshots/ubuntu_splunk_server.png)
 
 **Configuration**
 - Splunk Enterprise installed
