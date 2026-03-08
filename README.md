@@ -130,11 +130,13 @@ Splunk is used to:
 
 Screenshots of the Splunk dashboards, log searches, and monitoring interface are included in the repository.
 
-Examples:
-
 - Splunk Dashboard
+
+  
 - Log Search Results
   ![Architecture](screenshots/log-search.png)
+
+  
 - Forwarder Status
 ![Architecture](screenshots/forwarder-status.png)
 ---
