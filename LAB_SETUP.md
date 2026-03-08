@@ -193,28 +193,28 @@ If logs appear from Windows machines, the configuration is successful.
 Generate activity on the systems to produce logs:
 
 Examples:
-```
-Login attempts on Windows machines
 
-File access events
+- Login attempts on Windows machines
 
-Network activity
+- File access events
 
-System log events
+- Network activity
+
+- System log events
 
 These logs will appear in Splunk for monitoring and analysis.
-```
+
 
 ---
 # Result
 
 After completing the setup:
-```
-Windows machines forward logs to Splunk
 
-Splunk indexes and stores the logs
+- Windows machines forward logs to Splunk
 
-Security events can be monitored through the Splunk interface
-```
+- Splunk indexes and stores the logs
+
+- Security events can be monitored through the Splunk interface
+
 
 This environment simulates a basic SOC monitoring lab used for learning SIEM operations.
