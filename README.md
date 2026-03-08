@@ -134,6 +134,7 @@ Examples:
 
 - Splunk Dashboard
 - Log Search Results
+  ![Architecture](screenshots/log-search.png)
 - Forwarder Status
 
 ---
